@@ -8,7 +8,8 @@ My name is Luo CHENG (程络 [ʈʂʰəŋ˧˥ lwɔ˥˩]), a master’s student in
 
 Previously, I received my B.Eng. degree from <a href='https://cs.gdut.edu.cn/'>the School of Computer Science and Technology, Guangdong University of Technology (GDUT)</a>. During my undergraduate years, I focused on Machine Learning and Differential Privacy at  <a href='https://qgailab.com/#/'>QG Studio</a>, supervised by Prof. Guangqiang XIE and Prof. Yang LI.
 
-My research interest includes Automatic Driving, Adversarial Samples and AI alignment.
+My research interest includes Automatic Driving, Adversarial Samples and AI alignment. 
+Contact me: chengluo##ios.ac.cn (replace ## to @)
 
 # 🔥 News {#news}
 - *2025.10*: &nbsp;🎉🎉 One paper titled <span style="background: linear-gradient(to right, #f12711, #f5af19); color: white; padding: 1px 8px; border-radius: 12px; font-size: 0.85em; font-weight: bold;">Oral Presentation</span>"**SL-CBM: Enhancing Concept Bottleneck Models with Semantic Locality for Better Interpretabilit**" has been accepted by **AAAI 2026**! See you in Singapore!
@@ -38,13 +39,13 @@ My research interest includes Automatic Driving, Adversarial Samples and AI alig
 - **Honorable Mention**, MCM/ICM <span style="float:right;">2021</span>
 # 📖 Educations {#educations}
 **University of Chinese Academy of Sciences (UCAS)** <span style="float:right;">*2023.09 – 2026.07 (Expected)*</span>
-*Institute of Software, CAS (ISCAS), State Key Laboratory of Computer Science* <span style="float:right;">*M.E. in Computer Science*</span>
-- **Major**: Computer Science and Technology (081200)
+
+*Institute of Software, CAS (ISCAS), State Key Laboratory of Computer Science* <span style="float:right;">*M.E. in Computer Science (081200)*</span>
 - **GPA**: 3.77 / 4.00
 
 **Guangdong University of Technology (GDUT)** <span style="float:right;">*2019.09 – 2023.06*</span>
-*School of Computer Science* <span style="float:right;">*B.E. in Computer Science*</span>
-- **Major**: Computer Science and Technology (080901)
+
+*School of Computer Science and Technology* <span style="float:right;">*B.E. in Computer Science and Technology (080901)*</span>
 - **GPA**: 3.99 / 5.00 (**Top 5%**)
 - **Honors & Awards**:
     - Outstanding Undergraduate Graduate <span style="float:right;">2023</span>
